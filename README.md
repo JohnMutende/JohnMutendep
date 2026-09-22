@@ -18,14 +18,14 @@ When I'm not working with data, I enjoy [Reading books]. I love the "aha!" momen
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Building a HR Analytic Dashboard using Power BI.]  
-- **Project B:** [Creating an interactive Data proffessional  dashboard in Power BI.]
-- **Project c:** [Sales Trends Dashboard using Excel.]
+- **Project A:** Building a HR Analytic Dashboard using Power BI.  
+- **Project B:** Creating an interactive Data proffessional  dashboard in Power BI.
+- **Project c:** Sales Trends Dashboard using Excel.
 
 ## 🌱 Currently Learning 
 
-- [Cyber security]
-- [Cloud computing]
+- Cyber security
+- Cloud computing
 
 ## 🛠️ Technical Skillset
 
